@@ -30,6 +30,12 @@ Automated Auction System is an application software designed for facilitating th
 - **MySQL**: Used as the database management system for storing user data, item listings, and transaction records.
 - **Git & GitHub**: Version control and collaborative development platform for managing the project's source code.
 
+## Project Preview
+
+https://github.com/kalirishik/Auction_Management_System/assets/110583211/91df36f6-907c-44dd-b408-3d4d50c52866
+
+https://github.com/kalirishik/Auction_Management_System/assets/110583211/ab1ecd2f-a34d-445b-81c2-b08960ae42e1
+
 ## Lessons Learned
 
 - **Java and MySQL**: Deepened understanding and practical application of these technologies through the development process.
