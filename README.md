@@ -1,6 +1,6 @@
 # Auction Management System
 
-Automated Auction System is an application software designed for facilitating the buying and selling of products within an auction setting. It serves auction companies by managing the interactions between various buyers and sellers registered with the platform. This system streamlines the process of conducting auctions and handling disputes efficiently.
+Automated Auction System is software designed for facilitating the buying and selling of products within an auction setting. It serves auction companies by managing the interactions between various buyers and sellers registered with the platform. This system streamlines the process of conducting auctions and handling disputes efficiently.
 
 ## Users and Roles
 
